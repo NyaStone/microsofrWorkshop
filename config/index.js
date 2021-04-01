@@ -1,12 +1,12 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@konstantinmuenster",
-  siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  siteTitle: "NyaStone and CoconutBot",
+  siteShortTitle: "NyaStone", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "A modern one-page portfolio with a clean yet expressive design.",
+    "Un petit portfolio.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
-  siteLanguage: "en_US",
+  siteLanguage: "fr",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
   
@@ -25,12 +25,12 @@ module.exports = {
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
     },
     darkTheme: {
-      primary: "#FAFAFA",
+      primary: "#f9f9ae",
       secondary: "#2A2926",
       tertiary: "#252525",
       text: "rgba(255, 255, 255, 0.87)",
       subtext: "#AAAAAA",
-      background: "#121212",
+      background: "#1F1F1F",
       card: "#1C1C1C",
       scrollBar: "rgba(255, 255, 255, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
@@ -54,21 +54,17 @@ module.exports = {
   // Medium, GitHub, LinkedIn, XING, Behance, E-Mail
   socialMedia: [
     {
-      name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
-    },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      name: "Discord",
+      url: "https://https://discord.com/invite/NjM9dyD/",
     },
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/github.com/NyaStone",
     },
     {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+      name: "YouTube",
+      url: "https://www.youtube.com/channel/UCQkXtKQwBtFukogTvxzJ1EQ",
     },
     // {
     //   name: "Mail",
